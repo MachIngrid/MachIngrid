@@ -23,7 +23,7 @@
 
 </div>
 
-![Snake animation](https://github.com/MachIngrid/MachIngrid/blob/output/github-contribution-grid-snake.svg)
+
           
           
           
