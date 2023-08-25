@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Ingrid Machado🪓
-- ✨I'm a Mechatronics Engineering student, seeking to find myself in the field of development.
+- ✨I'm a Mechatronics Engineer student, seeking to find myself in the field of development.
 - 🌱 I’m currently learning Python and many other things
 - 📫 How to reach me : ingrid14imc@gmail.com 
 
